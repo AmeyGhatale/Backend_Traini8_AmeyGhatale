@@ -5,7 +5,8 @@ Note : I have used MySQL database for storing all the data.
 SETUP INSTRUCTIONS : 
 1. Before running the application create a database called traini8 in MySQL.
 2. You do not have to create tables as it will generate automatically.
-3. I have implemented swagger for easy user implementation (swagger link : "http://localhost:8080/swagger-ui/index.html#/"), you can use postman also if you like.
+3. I have implemented swagger for easy user implementation
+(swagger link : "http://localhost:8080/swagger-ui/index.html#/"), you can use postman also if you like.
 
 
 FUNCTIONALITIES DEVELOPED : 
