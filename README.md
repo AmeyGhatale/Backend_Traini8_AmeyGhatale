@@ -9,6 +9,7 @@ SETUP INSTRUCTIONS :
 
 
 FUNCTIONALITIES DEVELOPED : 
+
 POST APIs :
 1. Add Training Center : (Path = "http://localhost:8080/trainingCentre/addCenter")
 2. You can directly add this JSON Format in PostMan or Swagger
