@@ -25,8 +25,6 @@ public class TrainingCenterDTO {
 
     private List<String> coursesOffered;
 
-    private Long createdOn;
-
     private String contactEmail;
 
     private String contactPhone;
